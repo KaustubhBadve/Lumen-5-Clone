@@ -1,0 +1,20 @@
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.tenhover,.ninehover,.eighthover,.sevenhover,.sixhover,.fivehover,.fourhover,.threehover,.twohover {
+  display: none;
+  color: green ;    
+  cursor: pointer;
+}
+
+.ten:hover + div,.nine:hover + div,.eight:hover + div,.seven:hover + div,.six:hover + div,
+.five:hover + div,.four:hover + div,.three:hover + div,.two:hover + div {
+  display: block;
+  font-size: 35px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  margin-left: -50px;
+  margin-top: 15px;
+}
