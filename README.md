@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Clone of Lumen5
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a collaborative Project from Masai School in the Construct Week. We are 4 members of the team:
 
-## Available Scripts
+<b>1. Kaustubh Badve : Team Lead</b>
 
-In the project directory, you can run:
+<b>2. Sai Kiran Arishanapalli</b>
 
-### `npm start`
+<b>3. Umesh Yadav</b>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<b>4. Harshada Jagtap</b>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Firstly let’s know about Lumen5. Lumen5 combines powerful A.I. with a simple drag-and-drop interface to help you create professional video content in minutes.
 
-### `npm test`
+## Challenges and hardships we faced:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+During the project, we divided our work among ourselves and we played our part very well.
 
-### `npm run build`
+## Tech & Tools Used :
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+These are the technologies used in this project which are available below:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### Lumen5 (Original Website)
+#### Chakra UI (UI Styling Library)
+#### For Frontend : HTML5, CSS3, Javascript, JS6, ReactJS
+#### For database: Local storage
+#### For authentication: Masai Api Mocker
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Functionalities we made:
+## Landing Page :
+The landing page consists of various templates for video making. Users can hover on the given template video and preview it. Users can see filtration according to the type of video template.
 
-### `npm run eject`
+## Register and Login :
+On the register page, the user can register by giving common details like First Name, Work Email, Mobile Number, and Password.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+If the user is already registered, the user can log in with an Email & Password.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+After signup and login successful user is navigated to the dashboard.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Dashboard:
+On the dashboard, the user can have all videos and can refer to the saved template.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+After proceeding further user is navigated to a page where he can select the template for creating a new video to proceed further. There are various categories available, users can select from them. Here also users can preview that video by hovering over it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Create video page:
+After selecting the template, the user will be moved to create a video page where you can make a video by just pasting any blog link or uploading any media, icons, and music.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Once you paste a link or upload any media the ‘convert to video ’ button will get enabled. On the right-hand side you can preview your video and if it looks good user can publish a video.
 
-### Code Splitting
+Once it gets published user can preview and download that video.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Upgrade:
+If the user wants to avail of more features, the user can upgrade its subscription.
 
-### Analyzing the Bundle Size
+After logged in , user is given a basic Community plan. There are 3 more plans: Starter, Professional, and Enterprise.
+If the user wants to upgrade, he will be navigated to a payment page, where he has to fill in all the correct details and subscribe to that plan.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+After successful OTP confirmation, you will be directed to the success page and from there you can navigate to the dashboard.
 
-### Making a Progressive Web App
+## Notes :
+All the images and links are used from the original website to get a better experience of the website. I have also included the Github link of our project for your reference.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+NetlifyLink : https://lumen5clone8888.netlify.app/
 
-### Advanced Configuration
+I would say, thank you for reading this here. I hope you will find it helpful. I and my teammates completed this project with full enthusiasm, focus, and hard work. It may have some bugs, but we will try to fix them soon.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+It was not an easy task to implement the new concepts on the first attempt. I would also thank my team members to make this project successful. Feel free to reach out to us for any feedback.
