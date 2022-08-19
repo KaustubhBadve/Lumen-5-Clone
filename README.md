@@ -69,8 +69,8 @@ It was not an easy task to implement the new concepts on the first attempt. I wo
 
 <hr>
 
-<img src="https://user-images.githubusercontent.com/101566134/185568355-56c3c17c-9557-4c2b-89b8-9a305a567cfb.png"/>
-<img src="https://user-images.githubusercontent.com/101566134/185568503-cb8462ee-e9ed-4d6d-8715-b4047e7d6a99.png"/>
-<img src="https://user-images.githubusercontent.com/101566134/185568566-bff9d3e3-aadc-43f8-83f2-c6a713605d84.png"/>
-<img src="https://user-images.githubusercontent.com/101566134/185568723-b93fbd07-9c27-486f-abbf-79b3148d5b7f.png"/>
-<img src="https://user-images.githubusercontent.com/101566134/185568769-615f9a24-c083-4f70-9cce-fcffa39c5e36.png"/>
+<img src="https://user-images.githubusercontent.com/101566134/185568355-56c3c17c-9557-4c2b-89b8-9a305a567cfb.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185568503-cb8462ee-e9ed-4d6d-8715-b4047e7d6a99.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185568566-bff9d3e3-aadc-43f8-83f2-c6a713605d84.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185568723-b93fbd07-9c27-486f-abbf-79b3148d5b7f.png"/><hr>
+<img src="https://user-images.githubusercontent.com/101566134/185568769-615f9a24-c083-4f70-9cce-fcffa39c5e36.png"/><hr>
