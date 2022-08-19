@@ -61,7 +61,7 @@ After successful OTP confirmation, you will be directed to the success page and 
 ## Notes :
 All the images and links are used from the original website to get a better experience of the website. I have also included the Github link of our project for your reference.
 
-NetlifyLink : https://lumen5clone8888.netlify.app/
+NetlifyLink : https://crudtodoapp88.netlify.app/login
 
 I would say, thank you for reading this here. I hope you will find it helpful. I and my teammates completed this project with full enthusiasm, focus, and hard work. It may have some bugs, but we will try to fix them soon.
 
